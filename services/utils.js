@@ -8,7 +8,7 @@ export function getImagePost (path, source) {
 
 export function getSlug (path) {
   const [slug] = path.match(/[\w-(.html)]+$/g)
-  return slug.replace('.html', '')
+  return slug.replace('', '')
 }
 
 export function filterPages (pages, type) {

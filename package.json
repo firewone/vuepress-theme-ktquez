@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-theme-ktquez",
+  "name": "vuepress-theme-ktquez-tes",
   "version": "0.2.18",
   "description": "A blog theme for VuePress by Ktquez",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ktquez/vuepress-theme-ktquez.git"
+    "url": "git+ssh://git@github.com/firewone/vuepress-theme-ktquez.git"
   },
   "keywords": [
     "vuepress",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/ktquez/vuepress-theme-ktquez/issues"
   },
-  "homepage": "https://github.com/ktquez/vuepress-theme-ktquez#readme",
+  "homepage": "https://github.com/firewone/vuepress-theme-ktquez#readme",
   "dependencies": {
     "carbon-grid": "^1.1.2",
     "elevator.js": "^1.0.1",
