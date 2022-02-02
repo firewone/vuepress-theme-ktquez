@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-ktquez-tes",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "description": "A blog theme for VuePress by Ktquez",
   "scripts": {
     "dev": "node_modules/.bin/vuepress dev src",
